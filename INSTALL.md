@@ -12,7 +12,7 @@ python3 scripts/install_latest.py --host workbuddy   # 或 --host codex；其他
 
 安装器读取仓库根 `updates.json`，下载固定提交并逐文件校验 `PACKAGE-MANIFEST.json`。已有更高版本、本地修改或不兼容包时拒绝覆盖。需要 Python 3.9+，无需额外依赖。
 
-0.2.0 没有更新程序：已装 0.2.0 的，按上面重新安装一次即可，之后自动更新。
+0.2.0 没有更新程序，也没有文件清单，安装器无法确认旧目录未被改过，会拒绝直接覆盖（`existing_installation_modified_or_invalid`）。已装 0.2.0 的：先把旧的 Skill 目录移到别处备份，再按上面安装一次，之后自动更新。
 
 ## 自动更新
 

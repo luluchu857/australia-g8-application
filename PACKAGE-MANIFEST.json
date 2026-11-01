@@ -1,13 +1,13 @@
 {
-  "version": "0.2.1",
+  "version": "0.2.2",
   "files": {
     "CHANGELOG.md": {
-      "size": 1456,
-      "sha256": "4271e01a370f1f780f80ca36fa07520262b40ed2a2e362cc5f5a8f6966621593"
+      "size": 1669,
+      "sha256": "9b311c4080fd39f47d65aa682e0369e74105d2e8a1abe97b645ef9ba861703c1"
     },
     "INSTALL.md": {
-      "size": 1825,
-      "sha256": "8201b1e395b15ffe1a244a3f9c6fc21ec78745f4aadb2b54402f9ce371e1ae09"
+      "size": 2004,
+      "sha256": "25451f32fc1d60a7828a09a4dc71949a9649f41a1ae70f8c8b15fcbd6e227f92"
     },
     "README.md": {
       "size": 875,
@@ -15,7 +15,7 @@
     },
     "SKILL.md": {
       "size": 5061,
-      "sha256": "08d0c2c22f1dad56a3cc112c9392c87a1f7e70c906fe8347d2e0b05c0b5e3c74"
+      "sha256": "fc2f1e13d980b2f9e4436fef99c73a4ead139568e27d25538c989b9f470d939c"
     },
     "UPDATE-POLICY.json": {
       "size": 183,
@@ -23,7 +23,7 @@
     },
     "VERSION": {
       "size": 6,
-      "sha256": "71015c979ccb0fc8a0be7ca0ae83046ab045cdc2c8faa09fb2f0f7e440f9b4a6"
+      "sha256": "998f6b887ed7a6ef44e84210d0237b715bed42ea7254f48dc418afec0a484103"
     },
     "agents/openai.yaml": {
       "size": 824,
