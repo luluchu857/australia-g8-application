@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.2.1
+
+- 加入与 study-abroad-planner 相同的自动更新：公开更新目录 `updates.json`、`scripts/check_update.py --background` 后台检查、校验清单与能力后切换独立运行目录；拒绝降级、本地修改覆盖和删除已发布文件。
+- 新增 `scripts/install_latest.py` / `install.py` 安装入口与离线测试。0.2.0 没有更新程序，需重新安装一次 0.2.1，之后自动更新。
+
 ## 0.2.0
 
 - description 只写何时使用、学生原话例句与 study-abroad-planner 的分工，URL 和“必须打开”规则移出。

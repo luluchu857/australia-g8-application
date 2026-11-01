@@ -2,7 +2,7 @@
 name: australia-g8-application
 description: 只问澳洲八大（Go8）时使用：ANU、墨尔本、悉尼、UNSW/新南、莫纳什、昆士兰、西澳、阿德莱德的预科、本科、授课硕、研究硕的选校、条件、案例、材料与递交。例如“GPA3.2能上莫纳什吗”“UNSW商科雅思几分”“墨尔本硕士要交哪些材料”“ANU和悉尼大学怎么选”。分工：其他国家、澳洲八大以外的学校、澳洲与其他国家比较，或八大与非八大一起比较，用 study-abroad-planner。
 metadata:
-  version: "0.2.0"
+  version: "0.2.1"
   display_name: "澳洲八大申请"
   display_name_en: "Australia Go8 Applications"
 ---
@@ -10,6 +10,10 @@ metadata:
 # 澳洲八大申请
 
 只做澳洲八大，预科、本科、授课硕、研究硕都覆盖。查询走留学信息 MCP，材料和递交走申请助手 MCP。学校范围和通道见 [八大范围](references/g8-schools.md)；问到八大以外的学校，说明本 Skill 只覆盖八大并按普通留学规划回答。
+
+## 启动
+
+有执行能力时运行一次 `python3 <安装目录>/scripts/check_update.py --background`（立即返回，不加 timeout 或管道）。返回的 `effective_version` 与本文件版本不同时才读取其 `runtime_skill_path`，本次咨询固定用该 `runtime_path`；相同或失败就直接用当前文件。新版在后台下载校验，下次触发生效。
 
 ## 咨询怎么做
 

@@ -1,0 +1,125 @@
+{
+  "version": "0.2.1",
+  "files": {
+    "CHANGELOG.md": {
+      "size": 1456,
+      "sha256": "4271e01a370f1f780f80ca36fa07520262b40ed2a2e362cc5f5a8f6966621593"
+    },
+    "INSTALL.md": {
+      "size": 1825,
+      "sha256": "8201b1e395b15ffe1a244a3f9c6fc21ec78745f4aadb2b54402f9ce371e1ae09"
+    },
+    "README.md": {
+      "size": 875,
+      "sha256": "cb6e13e793a61db566643cb57ea96d499202fa0de23ab0531a1dcb010a7bc851"
+    },
+    "SKILL.md": {
+      "size": 5061,
+      "sha256": "08d0c2c22f1dad56a3cc112c9392c87a1f7e70c906fe8347d2e0b05c0b5e3c74"
+    },
+    "UPDATE-POLICY.json": {
+      "size": 183,
+      "sha256": "d477780d9b213d4533fd351fb0bc621dab313ffad3a82c537a423d9c26d2358d"
+    },
+    "VERSION": {
+      "size": 6,
+      "sha256": "71015c979ccb0fc8a0be7ca0ae83046ab045cdc2c8faa09fb2f0f7e440f9b4a6"
+    },
+    "agents/openai.yaml": {
+      "size": 824,
+      "sha256": "a8542c17624d427a1a7c24b5267959118a33d7de24a50db6c01820c24451f600"
+    },
+    "mcp.example.json": {
+      "size": 259,
+      "sha256": "9414c02842a9ee4488e55f39da34bc2cea46f7ee4a4ac9dc988c089679ce6523"
+    },
+    "references/g8-schools.md": {
+      "size": 859,
+      "sha256": "da5bfbc0fb116044089e6474dd14cfc8b5ef082e6af2b0a47114be57704a5295"
+    },
+    "references/handoff.md": {
+      "size": 2272,
+      "sha256": "1da8a6ea20b0191e92f0db26ea89f2f985ed37ff6a52c11e174184448ff41c6c"
+    },
+    "references/open-joint-officer.md": {
+      "size": 2219,
+      "sha256": "10895a1bbdd0137d4dd24618e4b16440da1c4867fbd553391805460aba7c6257"
+    },
+    "references/planning.md": {
+      "size": 869,
+      "sha256": "3a73228dd6d3a743394e8bf170cd308cbee6c1fa02d5c7392e92a2fa975608f0"
+    },
+    "scripts/auto_update.py": {
+      "size": 9124,
+      "sha256": "ea204ac965345710255feaaf4cd8b2e5206112c49fd4021da3fd764fb92c30e6"
+    },
+    "scripts/check_update.py": {
+      "size": 16304,
+      "sha256": "f1a6695c0c8c8e7d3f810e42ee8305760a064dc90cdfd31fc713661a528f24e7"
+    },
+    "scripts/install.py": {
+      "size": 23273,
+      "sha256": "fea202d3bc6e24a9761625821974ff9484b1836fcc26a6a6efcfdf039e153400"
+    },
+    "scripts/install_latest.py": {
+      "size": 8102,
+      "sha256": "44704f6bb7342eb20a61fe7c38494108ce904e3ab35c0846e29fb91612ef70f6"
+    },
+    "scripts/run_tests.py": {
+      "size": 679,
+      "sha256": "3c2548add09fb259f42c4bf710249f5a4027831a9f0767597346e66d175a8167"
+    },
+    "scripts/safe_temp.py": {
+      "size": 1378,
+      "sha256": "bee431fad031fa8a056184ecb076e0929b23d11f16a4360e2292b887db44056c"
+    },
+    "scripts/update_feed.py": {
+      "size": 16123,
+      "sha256": "ce0b26703ec63f870d8a2bf2ccbf5220d48e5a978639f0b5622859df25760048"
+    },
+    "scripts/update_runtime.py": {
+      "size": 20613,
+      "sha256": "b9d270efc5aee32ea7df873e61fabd037578682c171614088298efe47912a56a"
+    },
+    "tests/test_auto_update.py": {
+      "size": 9181,
+      "sha256": "d25c70ab3ad7e62bd054aa32a364c1b3ae4d363b93e6eae567dcb031544b07ed"
+    },
+    "tests/test_install_latest.py": {
+      "size": 13600,
+      "sha256": "771f6c4c3d25d321c251fabcf54b6cbd5bde6cf9d4b33a39a5b7a21f3d37cc3f"
+    },
+    "tests/test_install_update.py": {
+      "size": 31479,
+      "sha256": "d17e0121efd1e4d9b286b31fde44167199e8b40b6157265a65f303c12998df92"
+    },
+    "tests/test_open_rules.py": {
+      "size": 2587,
+      "sha256": "9dd4933d825d2faf168b73b26f3dbc6492ca4a4f7ed865ca02abf1cf18bbb13d"
+    },
+    "tests/test_portable_fixtures.py": {
+      "size": 2821,
+      "sha256": "9909d3dc326984712c0e0066526bf2546a2a8010e4dc7a28bfd5446686fe3a3e"
+    },
+    "tests/test_simulated_student.py": {
+      "size": 3171,
+      "sha256": "157f3f74542e17678d0386392f11b4e99fd58c46832497285ab796f47f247688"
+    },
+    "tests/test_support.py": {
+      "size": 1481,
+      "sha256": "a57a83ba0efe84f488a06a8b289bbf28a44d00b8d7fee9afef7c38c1f56cd665"
+    },
+    "tests/test_update_feed.py": {
+      "size": 18931,
+      "sha256": "6f59fc1113cbea3c137705d8e8486c2d5a1b5a3cf7574869e0a41c61d847daae"
+    },
+    "tests/test_update_runtime.py": {
+      "size": 21698,
+      "sha256": "79cf8c57d2838475040777ce98ba7a709fe737727fde0e8f7267ac743d438b78"
+    },
+    "tests/test_windows_directory_access.py": {
+      "size": 12277,
+      "sha256": "dd2567db37031e527a5a81422e7df5bd44cfe5903d6cef18e3cf1499f47ee384"
+    }
+  }
+}

@@ -7,3 +7,5 @@
 [在线咨询](https://hi.xwoork.cn/student) · [材料上传](https://hi.xwoork.cn/student/upload)
 
 查询和申请助手 MCP 与留学规划助手相同。
+
+安装：把这句话发给 AI——“帮我安装澳洲八大申请 github:luluchu857/australia-g8-application”。安装后每次使用会在后台自动检查更新，见 [安装指南](INSTALL.md)。
