@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "repository": "luluchu857/australia-g8-application",
+  "channels": {
+    "stable": {
+      "version": "0.2.1",
+      "commit": "3e3f190e0d74afee64abbc1ffb12867e61f97ffb",
+      "manifest_sha256": "9277bd03a08530361b1c9a3a634a707bcccc640929017403b7fb3722c3c78b0c"
+    },
+    "pilot": null
+  }
+}
