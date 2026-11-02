@@ -3,9 +3,9 @@
   "repository": "luluchu857/australia-g8-application",
   "channels": {
     "stable": {
-      "version": "0.2.3",
-      "commit": "4e32c2cf327053b0c3a6771531225ee74710a5a4",
-      "manifest_sha256": "1b37e14350514ed8c3fc055204a43a244ad8296d0d38adbb29eb62f4ccea6b1f"
+      "version": "0.2.4",
+      "commit": "d853272fedd1f0f1247ae965dd03721a30bc35c4",
+      "manifest_sha256": "8098e923be2cc960c88821b99893160df2faec7a9a60ea520675f0314bcc312f"
     },
     "pilot": null
   }
