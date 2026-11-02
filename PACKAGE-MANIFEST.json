@@ -1,9 +1,9 @@
 {
-  "version": "0.2.3",
+  "version": "0.2.4",
   "files": {
     "CHANGELOG.md": {
-      "size": 2781,
-      "sha256": "c41c146ef33a6cd670299dd68f2906ae38215f15d6ab834adea43ecff46f1012"
+      "size": 3295,
+      "sha256": "ac35e90ac4f50d6041f622bedac8550202856d80c008ccbac96f33b12de0e1dc"
     },
     "INSTALL.md": {
       "size": 2004,
@@ -15,7 +15,7 @@
     },
     "SKILL.md": {
       "size": 5905,
-      "sha256": "fd8a1bdadf4755dd56e2dac94ecf65f20d4cb2692510759def71084a0f4d7045"
+      "sha256": "b1410e53b3aadbd012baae2a34f1a019c4ad5c5c7470c49ccae2cfc9d21573b0"
     },
     "UPDATE-POLICY.json": {
       "size": 183,
@@ -23,7 +23,7 @@
     },
     "VERSION": {
       "size": 6,
-      "sha256": "3ab94c04d24986f3af288ba1cda2c0bbddbc5a89dff097182805f54578e1ea75"
+      "sha256": "1725bfa6524c5265e7c171cf06568417d39b947fff49c242f03859479c82334b"
     },
     "agents/openai.yaml": {
       "size": 824,
@@ -38,8 +38,8 @@
       "sha256": "da5bfbc0fb116044089e6474dd14cfc8b5ef082e6af2b0a47114be57704a5295"
     },
     "references/handoff.md": {
-      "size": 2272,
-      "sha256": "1da8a6ea20b0191e92f0db26ea89f2f985ed37ff6a52c11e174184448ff41c6c"
+      "size": 3084,
+      "sha256": "2a37507fe36eff0640a1cda19df9f2933b74029553b6f6442eed502b968d0257"
     },
     "references/open-joint-officer.md": {
       "size": 2657,

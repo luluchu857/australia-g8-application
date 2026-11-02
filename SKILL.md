@@ -2,7 +2,7 @@
 name: australia-g8-application
 description: 只问澳洲八大（Go8）时使用：ANU、墨尔本、悉尼、UNSW/新南、莫纳什、昆士兰、西澳、阿德莱德的预科、本科、授课硕、研究硕的选校、条件、案例、材料与递交。例如“GPA3.2能上莫纳什吗”“UNSW商科雅思几分”“墨尔本硕士要交哪些材料”“ANU和悉尼大学怎么选”。分工：其他国家、澳洲八大以外的学校、澳洲与其他国家比较，或八大与非八大一起比较，用 study-abroad-planner。
 metadata:
-  version: "0.2.3"
+  version: "0.2.4"
   display_name: "澳洲八大申请"
   display_name_en: "Australia Go8 Applications"
 ---
