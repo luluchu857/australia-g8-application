@@ -23,18 +23,19 @@ class OpenRulesTest(unittest.TestCase):
         self.assertNotIn("https://", DESCRIPTION)
         self.assertNotIn("必须", DESCRIPTION)
 
-    def test_four_triggers_same_as_global_skill(self):
+    def test_direct_open_triggers_same_as_global_skill(self):
         rules = joint_rules(SKILL)
-        self.assertEqual(len(rules), 4)
+        self.assertEqual(len(rules), 5)
         if GLOBAL.is_file():
             self.assertEqual(rules, joint_rules(GLOBAL.read_text(encoding="utf-8")))
 
     def test_consult_direct_upload_ask_first_one_closing_line(self):
         self.assertIn("**直接打开**", SKILL)
         self.assertIn("上传页先问一句", SKILL)
-        self.assertIn("同一话题只提议或打开一次", SKILL)
+        self.assertIn("同一话题只提议或主动打开一次", SKILL)
         self.assertIn("结尾提议一句", SKILL)
-        self.assertIn("降低频率而不是停止", SKILL)
+        self.assertIn("降低频率，不是停止", SKILL)
+        self.assertIn("[一键咨询联合招生官](https://hi.xwoork.cn/student)", SKILL)
         self.assertIn("最新的招生文件", SKILL)
         self.assertIn("结尾只留一句", SKILL)
         self.assertIn("https://hi.xwoork.cn/student", SKILL)

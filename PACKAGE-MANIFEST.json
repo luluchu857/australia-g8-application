@@ -1,9 +1,9 @@
 {
-  "version": "0.2.2",
+  "version": "0.2.3",
   "files": {
     "CHANGELOG.md": {
-      "size": 1669,
-      "sha256": "9b311c4080fd39f47d65aa682e0369e74105d2e8a1abe97b645ef9ba861703c1"
+      "size": 2781,
+      "sha256": "c41c146ef33a6cd670299dd68f2906ae38215f15d6ab834adea43ecff46f1012"
     },
     "INSTALL.md": {
       "size": 2004,
@@ -14,8 +14,8 @@
       "sha256": "cb6e13e793a61db566643cb57ea96d499202fa0de23ab0531a1dcb010a7bc851"
     },
     "SKILL.md": {
-      "size": 5061,
-      "sha256": "fc2f1e13d980b2f9e4436fef99c73a4ead139568e27d25538c989b9f470d939c"
+      "size": 5905,
+      "sha256": "fd8a1bdadf4755dd56e2dac94ecf65f20d4cb2692510759def71084a0f4d7045"
     },
     "UPDATE-POLICY.json": {
       "size": 183,
@@ -23,7 +23,7 @@
     },
     "VERSION": {
       "size": 6,
-      "sha256": "998f6b887ed7a6ef44e84210d0237b715bed42ea7254f48dc418afec0a484103"
+      "sha256": "3ab94c04d24986f3af288ba1cda2c0bbddbc5a89dff097182805f54578e1ea75"
     },
     "agents/openai.yaml": {
       "size": 824,
@@ -42,12 +42,12 @@
       "sha256": "1da8a6ea20b0191e92f0db26ea89f2f985ed37ff6a52c11e174184448ff41c6c"
     },
     "references/open-joint-officer.md": {
-      "size": 2219,
-      "sha256": "10895a1bbdd0137d4dd24618e4b16440da1c4867fbd553391805460aba7c6257"
+      "size": 2657,
+      "sha256": "0a37984fb02b2a416cd6e3875ad61cc70d31e37cb99e755983017fdce73a4fe1"
     },
     "references/planning.md": {
-      "size": 869,
-      "sha256": "3a73228dd6d3a743394e8bf170cd308cbee6c1fa02d5c7392e92a2fa975608f0"
+      "size": 1136,
+      "sha256": "cb4bfb2e3073ccae539260ed1ddb37cd346a9b5f1052198e97d531cef0c269c4"
     },
     "scripts/auto_update.py": {
       "size": 9124,
@@ -94,16 +94,16 @@
       "sha256": "d17e0121efd1e4d9b286b31fde44167199e8b40b6157265a65f303c12998df92"
     },
     "tests/test_open_rules.py": {
-      "size": 2587,
-      "sha256": "9dd4933d825d2faf168b73b26f3dbc6492ca4a4f7ed865ca02abf1cf18bbb13d"
+      "size": 2692,
+      "sha256": "c84ca910a3470722d55a8d90c9e75c7ec45eb8228a251c5e530a742358ed0f2c"
     },
     "tests/test_portable_fixtures.py": {
       "size": 2821,
       "sha256": "9909d3dc326984712c0e0066526bf2546a2a8010e4dc7a28bfd5446686fe3a3e"
     },
     "tests/test_simulated_student.py": {
-      "size": 3171,
-      "sha256": "157f3f74542e17678d0386392f11b4e99fd58c46832497285ab796f47f247688"
+      "size": 5557,
+      "sha256": "15cfad1771c2aba37c93a72f2391cd408b0a026d6572c33122ee28e06427dad7"
     },
     "tests/test_support.py": {
       "size": 1481,
